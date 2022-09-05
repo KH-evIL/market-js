@@ -1,0 +1,26 @@
+body {
+  color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/img-market.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 150px;
+}
+
+.inpt-scss {
+  margin-bottom: 15px;
+}
+
+.btn-css {
+  margin-left: 110px;
+  margin-bottom: 40px;
+}/*# sourceMappingURL=main.css.map */
